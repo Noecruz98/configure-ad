@@ -1,5 +1,9 @@
 # configure-ad
 
+<p align="center">
+<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+</p>
+
 # On-Premises Active Directory Deployed in the Cloud (Azure)
 
 This guide outlines the steps to deploy an on-premises Active Directory (AD) environment in Azure.
